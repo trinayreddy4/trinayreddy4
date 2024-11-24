@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinayreddy4&label=Profile%20views&color=0e75b6&style=flat" alt="trinayreddy4" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **trinayreddy4@gmail.com**
 
